@@ -1,0 +1,42 @@
+
+.main{ 
+    height: 500px; 
+    width: 500px; 
+  padding: 10px;
+   
+}
+.main .div1 { 
+    height: 200px; 
+    width: 200px;
+    border: 1px solid black;
+    background-color:green;
+    display: inline-block;
+    float: right;
+}
+
+.main .div2 { 
+    height: 100px; 
+    width: 200ppx;
+    border: 1px solid black;
+    background-color:plum;
+    display: inline-block;
+    float: right;
+}
+
+.main .div3 { 
+    height: 200px; 
+    width: 200px;
+    border: 1px solid black;
+    background-color:purple;
+    display: inline-block;
+    float: left;
+}
+
+.main .div4 { 
+    height: 300px; 
+    width: 300px;
+    border: 1px solid black;
+    background-color:brown;
+    display: inline-block;
+    overflow: scroll;
+}
